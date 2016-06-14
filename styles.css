@@ -9,9 +9,7 @@ a {
   text-decoration: none;
 }
 
-.background {
-  
-}
+
 
 .brewery-row {
   margin: 40px;
@@ -20,7 +18,12 @@ a {
   clear: both;
 }
 
-.image {
+.image{
+  height: 100px;
+  width: 100px;
+}
+
+.logo {
   float: left;
   margin-right: 15px;
   margin-bottom: 50px;
